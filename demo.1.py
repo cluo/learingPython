@@ -119,6 +119,13 @@ print default_argument_test();print make_love(1,2);
 x = y = z = 2
 print x
 
-#多元赋值
-x, y, z = 1, 2, 'a string'
-print x,y,z
+
+#x, y, z = 1, 2, 'a string'
+#print x,y,z
+
+
+x = 3.14
+y = x
+y += 1
+print x
+print y
