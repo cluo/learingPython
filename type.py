@@ -178,3 +178,53 @@ for item in D:
     print(item,'=>',D[item])
 for item in sorted(D):   #sorted key
     print(item,'=>',D[item])
+
+for c in 'spam':
+    print(c.upper()),
+
+x = 4
+while x > 0:
+    print('spam!' * x)
+    x -= 1
+#TIME TIMEIT PROFILE
+squares = []
+for x in [1, 2, 3, 4, 5]:
+    squares.append(x ** 2)
+print squares
+squares = [x ** 2 for x in [1, 2, 3, 4 ,5]]
+print squares
+
+
+#key test time timeit profile
+if not 'f' in D:
+    print('missing')
+value = D.get('x', 'b')
+print value
+value = D['x'] if 'x' in D else 0
+print value
+
+#tuple
+T = (1, 2, 3, 4)
+print len(T)
+
+T += (5, 6)
+print T
+#T appears once
+print T.count(4)
+print T.index(4)
+T = ('spam', 3.0, [11, 22 ,33])
+print T[1]
+print T[0]
+#tuple could not change
+#T.append(4)
+#print T
+
+f = open('cluo','w')
+f.write('Hello\n')
+f.write('world\n')
+f.close()
+
+
+
+
+
