@@ -219,12 +219,63 @@ print T[0]
 #T.append(4)
 #print T
 
-f = open('cluo','w')
+f = open('cluo_bb','w')
 f.write('Hello\n')
 f.write('world\n')
 f.close()
 
 
+f = open('cluo_bb')
+content = f.read();
+print content
+list = content.split()
+print list
+#dir seek
+doc = dir(f)
+print doc
+help(f.seek)
 
+X = set('spam')
+Y = {'h', 'a', 'm'}
 
+print X, Y
+#intersection
+print X & Y
+#union
+print X | Y
+#diff
+print X - Y
+list = {x ** 2 for x in [1, 2, 3, 4]}
+print list
 
+#decimal fixed precision
+import decimal
+d = decimal.Decimal('3.141')
+print d + 1
+
+#initrialize name obj
+X = None
+print(X)
+L = [None] * 100
+print L
+
+print type(L)
+
+#type
+# if type(L) == type([]):
+#     print('yes')
+# if type(L) == list:
+#     print('yes')
+# if isinstance(L,list):
+#     print('yes')
+class Worker:
+    def __int__(self, name, pay):
+        self.name = name
+        self.pay = pay
+    def lastName(self):
+        return self.name.split()[-1]
+    def giveRaise(self, percent):
+        self.pay *= (1.0 + percent)
+
+bob = Worker('bob cluo',5000)
+print bob.lastName();
