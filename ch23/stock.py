@@ -4,7 +4,7 @@ from time import ctime
 from urllib import urlopen
 
 ticks = ('YHOO', 'GOOG', 'EBAY', 'AMZN')
-URL = 'http://quote.yahoo.com/d/quotes.csv?s=%s&f=sl1c1p2'
+URL = 'http://quote.yahoo.args.py/d/quotes.csv?s=%s&f=sl1c1p2'
 
 print '\nPrices quoted as of:', ctime()
 print '\nTICKER'.ljust(9), 'PRICE'.ljust(8), 'CHG'.ljust(5), '%AGE'

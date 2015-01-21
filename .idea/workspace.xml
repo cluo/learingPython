@@ -2,8 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bc7ddb7-8c35-43c7-86fe-ca9dd3ceb702" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/number.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/type.py" afterPath="$PROJECT_DIR$/type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_lock_holder/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/advacne.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/args.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/async.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date_time.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devide.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/dist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_join_timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_log_semaphore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_mulboss_mulwoker_qunue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_mulprocessing_pipe.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_group.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_group_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_limit.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_queue.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_socket_lunxun.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_thread_local.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_zeromq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goperclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inter2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/iter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/long_polling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/os.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/server1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/server2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/sub_client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/sub_server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subprocess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_daemon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_event.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/thread_my_local.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/thread_private_var.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_relock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_sub.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads_list_enumerate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/tunple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_contextlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_contextmanager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cluo" afterPath="$PROJECT_DIR$/cluo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch23/estock.pyw" afterPath="$PROJECT_DIR$/ch23/estock.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/gendata.py" afterPath="$PROJECT_DIR$/ch15/gendata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/alt/gendata.py" afterPath="$PROJECT_DIR$/ch15/alt/gendata.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number.py" afterPath="$PROJECT_DIR$/number.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch23/stock.py" afterPath="$PROJECT_DIR$/ch23/stock.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learingPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,11 +90,60 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/learingPython$gevent_mulprocessing_pipe.coverage" NAME="gevent_mulprocessing_pipe Coverage Results" MODIFIED="1421581479210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$client.coverage" NAME="client Coverage Results" MODIFIED="1421150941510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_server.coverage" NAME="gevent_server Coverage Results" MODIFIED="1421584718798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$goperclient.coverage" NAME="goperclient Coverage Results" MODIFIED="1420338623494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_join_timeout.coverage" NAME="gevent_join_timeout Coverage Results" MODIFIED="1421569550139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_10.coverage" NAME="gevent_10 Coverage Results" MODIFIED="1421569510348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_daemon.coverage" NAME="thread_daemon Coverage Results" MODIFIED="1421650287880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$read_code.coverage" NAME="read_code Coverage Results" MODIFIED="1419413842535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learingPython$number.coverage" NAME="number Coverage Results" MODIFIED="1419815274957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent4.coverage" NAME="gevent4 Coverage Results" MODIFIED="1421566184392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$socket.coverage" NAME="socket Coverage Results" MODIFIED="1421150257852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$string.coverage" NAME="string Coverage Results" MODIFIED="1421667661756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LP4E-examples" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_event.coverage" NAME="gevent_event Coverage Results" MODIFIED="1421570095912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$async.coverage" NAME="async Coverage Results" MODIFIED="1421570371026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_relock.coverage" NAME="thread_relock Coverage Results" MODIFIED="1421663806219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$server2.coverage" NAME="server2 Coverage Results" MODIFIED="1421150916683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
     <SUITE FILE_PATH="coverage/learingPython$type.coverage" NAME="type Coverage Results" MODIFIED="1419727255861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learingPython$demo_1.coverage" NAME="demo.1 Coverage Results" MODIFIED="1419413281154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_1.coverage" NAME="thread_1 Coverage Results" MODIFIED="1421647616988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_timeout.coverage" NAME="gevent_timeout Coverage Results" MODIFIED="1421565450529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$devide.coverage" NAME="devide Coverage Results" MODIFIED="1421646044534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$server1.coverage" NAME="server1 Coverage Results" MODIFIED="1421150973424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_zeromq.coverage" NAME="gevent_zeromq Coverage Results" MODIFIED="1421584712408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$sub_client.coverage" NAME="sub_client Coverage Results" MODIFIED="1421152869069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_mulboss_mulwoker_qunue.coverage" NAME="gevent_mulboss_mulwoker_qunue Coverage Results" MODIFIED="1421574367047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$oop.coverage" NAME="oop Coverage Results" MODIFIED="1421387378350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent5.coverage" NAME="gevent5 Coverage Results" MODIFIED="1421336271449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent9.coverage" NAME="gevent9 Coverage Results" MODIFIED="1421568004320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent8.coverage" NAME="gevent8 Coverage Results" MODIFIED="1421567991950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$number.coverage" NAME="number Coverage Results" MODIFIED="1420278230100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_lock.coverage" NAME="thread_lock Coverage Results" MODIFIED="1421663572722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_sub.coverage" NAME="thread_sub Coverage Results" MODIFIED="1421651495230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent6.coverage" NAME="gevent6 Coverage Results" MODIFIED="1421566587042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_thread_local.coverage" NAME="gevent_thread_local Coverage Results" MODIFIED="1421580318829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$second.coverage" NAME="second Coverage Results" MODIFIED="1421646093410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$first_code.coverage" NAME="first_code Coverage Results" MODIFIED="1419414107619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_pool_group_api.coverage" NAME="gevent_pool_group_api Coverage Results" MODIFIED="1421576801630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$demo_1.coverage" NAME="demo.1 Coverage Results" MODIFIED="1419413281154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent1.coverage" NAME="gevent1 Coverage Results" MODIFIED="1421330957197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$with_1.coverage" NAME="with_1 Coverage Results" MODIFIED="1421666129352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$thread_2.coverage" NAME="thread_2 Coverage Results" MODIFIED="1421649651888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_wsgi.coverage" NAME="gevent_wsgi Coverage Results" MODIFIED="1421585368210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$yield.coverage" NAME="yield Coverage Results" MODIFIED="1421421949441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent7.coverage" NAME="gevent7 Coverage Results" MODIFIED="1421567503190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$args.coverage" NAME="args Coverage Results" MODIFIED="1421062545722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$first.coverage" NAME="first Coverage Results" MODIFIED="1421387421423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$with_contextmanager.coverage" NAME="with_contextmanager Coverage Results" MODIFIED="1421666924947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent2.coverage" NAME="gevent2 Coverage Results" MODIFIED="1421331661546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$long_polling.coverage" NAME="long_polling Coverage Results" MODIFIED="1421586452004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_pool_limit.coverage" NAME="gevent_pool_limit Coverage Results" MODIFIED="1421577330420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_queue.coverage" NAME="gevent_queue Coverage Results" MODIFIED="1421574394294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent3.coverage" NAME="gevent3 Coverage Results" MODIFIED="1421332742272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$Unittests_in_with.coverage" NAME="Unittests in with Coverage Results" MODIFIED="1421665855123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$advance.coverage" NAME="advance Coverage Results" MODIFIED="1420342737953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_pool_group.coverage" NAME="gevent_pool_group Coverage Results" MODIFIED="1421574714266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$sub_server.coverage" NAME="sub_server Coverage Results" MODIFIED="1421152853774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,10 +157,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="number.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/number.py">
+      <file leaf-file-name="log_up_down.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LP4E-examples/log_up_down.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="7" selection-start="827" selection-end="827" vertical-scroll-proportion="0.9567723" vertical-offset="206" max-vertical-offset="990">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_semaphore.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_semaphore.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.5750274" vertical-offset="0" max-vertical-offset="913">
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_private_var.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_private_var.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+              <folding>
+                <element signature="e#21#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread_my_local.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_my_local.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+              <folding>
+                <element signature="e#21#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="threading.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="35" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="20025">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thread.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/thread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4425">
               <folding />
             </state>
           </provider>
@@ -55,20 +230,82 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo.1.py" />
-        <option value="$PROJECT_DIR$/ch03/makeTextFile0.py" />
-        <option value="$PROJECT_DIR$/read_code.py" />
-        <option value="$PROJECT_DIR$/first_code.py" />
-        <option value="$PROJECT_DIR$/type.py" />
-        <option value="$PROJECT_DIR$/number.py" />
+        <option value="$PROJECT_DIR$/gevent_timeout.py" />
+        <option value="$PROJECT_DIR$/gevent4.py" />
+        <option value="$PROJECT_DIR$/gevent6.py" />
+        <option value="$PROJECT_DIR$/gevent7.py" />
+        <option value="$PROJECT_DIR$/gevent9.py" />
+        <option value="$PROJECT_DIR$/gevent_10.py" />
+        <option value="$PROJECT_DIR$/gevent_join_timeout.py" />
+        <option value="$PROJECT_DIR$/gevent_event.py" />
+        <option value="$PROJECT_DIR$/async.py" />
+        <option value="$PROJECT_DIR$/gevent_mulboss_mulwoker_qunue.py" />
+        <option value="$PROJECT_DIR$/gevent_queue.py" />
+        <option value="$PROJECT_DIR$/gevent_pool_group.py" />
+        <option value="$PROJECT_DIR$/gevent_pool_group_api.py" />
+        <option value="$PROJECT_DIR$/gevent_pool_limit.py" />
+        <option value="$PROJECT_DIR$/gevent_socket_lunxun.py" />
+        <option value="$PROJECT_DIR$/gevent_log_semaphore.py" />
+        <option value="$PROJECT_DIR$/gevent_thread_local.py" />
+        <option value="$PROJECT_DIR$/gevent_mulprocessing_pipe.py" />
+        <option value="$PROJECT_DIR$/gevent8.py" />
+        <option value="$PROJECT_DIR$/gevent_zeromq.py" />
+        <option value="$PROJECT_DIR$/gevent_server.py" />
+        <option value="$PROJECT_DIR$/gevent_wsgi.py" />
+        <option value="$PROJECT_DIR$/long_polling.py" />
+        <option value="$PROJECT_DIR$/dive.py" />
+        <option value="$PROJECT_DIR$/signal.py" />
+        <option value="$PROJECT_DIR$/tread.py" />
+        <option value="$PROJECT_DIR$/thread_1.py" />
+        <option value="$PROJECT_DIR$/thread_2.py" />
+        <option value="$PROJECT_DIR$/thread_daemon.py" />
+        <option value="$PROJECT_DIR$/threads_list_enumerate.py" />
+        <option value="$PROJECT_DIR$/thread_sub.py" />
+        <option value="$PROJECT_DIR$/thread_timmer.py" />
+        <option value="$PROJECT_DIR$/thread_event.py" />
+        <option value="$PROJECT_DIR$/thread_lock.py" />
+        <option value="$PROJECT_DIR$/thread_lock_holder.py" />
+        <option value="$PROJECT_DIR$/thread_relock.py" />
+        <option value="$PROJECT_DIR$/with.py" />
+        <option value="$PROJECT_DIR$/with_contextlib.py" />
+        <option value="$PROJECT_DIR$/with_1.py" />
+        <option value="$PROJECT_DIR$/with_contextmanager.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/string.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/list.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/dist.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/tunple.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/advacne.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/iter.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/function.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/log_up_down.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/thread_semaphore.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/thread_private_var.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/thread_my_local.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1280" />
     <option name="y" value="-258" />
-    <option name="width" value="1920" />
-    <option name="height" value="1058" />
+    <option name="width" value="617" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -96,6 +333,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -114,18 +352,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LP4E-examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ops" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -137,8 +392,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.number">
-    <configuration default="false" name="demo.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.string">
+    <configuration default="false" name="thread_relock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,72 +406,38 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learingPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.1.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="first_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_code.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="read_code" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_code.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="type" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread_relock.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittests in with" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="with_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,7 +450,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learingPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with_1.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="with_contextmanager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with_contextmanager.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LP4E-examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LP4E-examples/string.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
@@ -386,23 +645,41 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.demo.1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.first_code" />
-      <item index="2" class="java.lang.String" itemvalue="Python.read_code" />
-      <item index="3" class="java.lang.String" itemvalue="Python.type" />
-      <item index="4" class="java.lang.String" itemvalue="Python.number" />
+      <item index="0" class="java.lang.String" itemvalue="Python.thread_relock" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in with" />
+      <item index="2" class="java.lang.String" itemvalue="Python.with_1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.with_contextmanager" />
+      <item index="4" class="java.lang.String" itemvalue="Python.string" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.number" />
-        <item index="1" class="java.lang.String" itemvalue="Python.type" />
-        <item index="2" class="java.lang.String" itemvalue="Python.first_code" />
-        <item index="3" class="java.lang.String" itemvalue="Python.read_code" />
-        <item index="4" class="java.lang.String" itemvalue="Python.demo.1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.string" />
+        <item index="1" class="java.lang.String" itemvalue="Python.with_contextmanager" />
+        <item index="2" class="java.lang.String" itemvalue="Python.with_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in with" />
+        <item index="4" class="java.lang.String" itemvalue="Python.thread_relock" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2bc7ddb7-8c35-43c7-86fe-ca9dd3ceb702" name="Default" comment="" />
@@ -411,28 +688,48 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-258" width="1920" height="1058" extended-state="6" />
+    <frame x="1280" y="-258" width="617" height="1054" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49882904" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26996967" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25598803" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31522897" sideWeight="0.49949238" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29137057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.378125" sideWeight="0.5005076" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47421637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06294416" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -449,99 +746,316 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/number.py">
+    <entry file="file://$PROJECT_DIR$/gevent_zeromq.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="640" selection-end="640" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="22" column="30" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="585" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/__builtin__.py">
+    <entry file="file://$PROJECT_DIR$/gevent_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2673" column="6" selection-start="91188" selection-end="91188" vertical-scroll-proportion="0.0" vertical-offset="40090" max-vertical-offset="77265">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/makeTextFile.py">
+    <entry file="file://$PROJECT_DIR$/gevent_wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="100" selection-end="142" vertical-scroll-proportion="0.2020202" vertical-offset="0" max-vertical-offset="594" />
+        <state line="8" column="34" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/makeTextFile.diff">
+    <entry file="file://$PROJECT_DIR$/long_polling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="11" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29656607" vertical-offset="0" max-vertical-offset="961" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="156" selection-end="156" vertical-scroll-proportion="0.15625" vertical-offset="0" max-vertical-offset="1335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.13988096" vertical-offset="161" max-vertical-offset="3555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="20" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44642857" vertical-offset="0" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="7" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="6" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/signal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="9" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="50" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_daemon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_timmer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/readTextFile.py">
+    <entry file="file://$PROJECT_DIR$/threads_list_enumerate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
+        <state line="27" column="24" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/makeTextFile1.py">
+    <entry file="file://$PROJECT_DIR$/thread_event.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="576" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch03/makeTextFile0.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="42" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch15/gendata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="653" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch08/maxFact.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="653" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch15/rewho.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="653" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/read_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="197" selection-end="197" vertical-scroll-proportion="0.24737631" vertical-offset="0" max-vertical-offset="667" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first_code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="21" selection-start="370" selection-end="374" vertical-scroll-proportion="0.44461778" vertical-offset="0" max-vertical-offset="641" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="128" column="0" selection-start="1947" selection-end="1953" vertical-scroll-proportion="0.82008994" vertical-offset="1373" max-vertical-offset="2040" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="279" column="0" selection-start="4306" selection-end="4306" vertical-scroll-proportion="0.84782606" vertical-offset="3600" max-vertical-offset="4290" />
+        <state line="26" column="10" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2673" column="6" selection-start="91188" selection-end="91188" vertical-scroll-proportion="0.0" vertical-offset="40090" max-vertical-offset="77265">
+        <state line="783" column="4" selection-start="25910" selection-end="25910" vertical-scroll-proportion="0.34124628" vertical-offset="11515" max-vertical-offset="77265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_lock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="39" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_lock_holder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_relock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/with_contextlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/with_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/with_contextmanager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch04.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="651" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch06.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.82191783" vertical-offset="540" max-vertical-offset="1830" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch12.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3195" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch11.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.2142856" vertical-offset="1395" max-vertical-offset="8700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch26.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="14" selection-start="3461" selection-end="3461" vertical-scroll-proportion="1.849315" vertical-offset="510" max-vertical-offset="3540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch28.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="60" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-8.071428" vertical-offset="6060" max-vertical-offset="7575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7238806" vertical-offset="485" max-vertical-offset="1155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch17.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5851735" vertical-offset="1005" max-vertical-offset="8760" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="37" selection-start="797" selection-end="797" vertical-scroll-proportion="0.8138298" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/dist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="37" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.68297875" vertical-offset="333" max-vertical-offset="1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/tunple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="7" selection-start="658" selection-end="658" vertical-scroll-proportion="0.70212764" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/advacne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="44" selection-start="638" selection-end="638" vertical-scroll-proportion="0.5744681" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="4" selection-start="463" selection-end="463" vertical-scroll-proportion="0.4787234" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/iter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="0" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.92234045" vertical-offset="648" max-vertical-offset="1605" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="48" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.8744681" vertical-offset="438" max-vertical-offset="1395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gevent_log_semaphore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/number.py">
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/log_up_down.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="7" selection-start="827" selection-end="827" vertical-scroll-proportion="0.9567723" vertical-offset="206" max-vertical-offset="990">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="35" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="20025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_my_local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_private_var.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <element signature="e#21#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_semaphore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.5750274" vertical-offset="0" max-vertical-offset="913">
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

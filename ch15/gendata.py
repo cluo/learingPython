@@ -5,7 +5,7 @@ from string import lowercase
 from sys import maxint
 from time import ctime
 
-doms = ( 'com', 'edu', 'net', 'org', 'gov' )
+doms = ( 'args.py', 'edu', 'net', 'org', 'gov' )
     
 for i in range(randint(5, 10)):
     dtint = randint(0, maxint-1) # pick date

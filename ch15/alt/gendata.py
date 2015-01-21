@@ -12,7 +12,7 @@ from sys import maxint                        # (value, not function)
 from string import lowercase
 from os.path import exists
 
-doms = ( 'com', 'edu', 'net', 'org', 'gov' )
+doms = ( 'args.py', 'edu', 'net', 'org', 'gov' )
 
 def main():
 

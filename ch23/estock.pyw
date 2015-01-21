@@ -10,7 +10,7 @@ warn = lambda app: showwarning(app, 'Exit?')
 RANGE = range(3, 8)
 TICKS = ('YHOO', 'GOOG', 'EBAY', 'AMZN')
 COLS = ('TICKER', 'PRICE', 'CHG', '%AGE')
-URL = 'http://quote.yahoo.com/d/quotes.csv?s=%s&f=sl1c1p2'
+URL = 'http://quote.yahoo.args.py/d/quotes.csv?s=%s&f=sl1c1p2'
 
 def excel():
     app = 'Excel'
