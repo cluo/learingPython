@@ -2,82 +2,381 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bc7ddb7-8c35-43c7-86fe-ca9dd3ceb702" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_lock_holder/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/advacne.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/args.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/async.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/date_time.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devide.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/dist.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dive.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent3.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent5.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent6.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent8.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent9.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_10.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_event.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_join_timeout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_log_semaphore.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_mulboss_mulwoker_qunue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_mulprocessing_pipe.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_group.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_group_api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_pool_limit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_queue.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_socket_lunxun.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_thread_local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_timeout.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent_zeromq.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goperclient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inter2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/iter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lab.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/long_polling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/os.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/second.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/server1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/server2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/signal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/sub_client.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zmq/sub_server.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/subprocess.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_daemon.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_event.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/thread_my_local.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/thread_private_var.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_relock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread_sub.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/threads_list_enumerate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tread.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LP4E-examples/tunple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_contextlib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/with_contextmanager.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cluo" afterPath="$PROJECT_DIR$/cluo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch23/estock.pyw" afterPath="$PROJECT_DIR$/ch23/estock.pyw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/gendata.py" afterPath="$PROJECT_DIR$/ch15/gendata.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/alt/gendata.py" afterPath="$PROJECT_DIR$/ch15/alt/gendata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/zops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cookbook/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gevent/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch03/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch04/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch06/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch07/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch07/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch08/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch08/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch09/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch09/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch10/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch10/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch11/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch13/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch14/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch14/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch15/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch15/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch16/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch17/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch18/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch18/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch19/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch20/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch21/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch21/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch22/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch23/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonCore/ch23/alt/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/temp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/ops_agent/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/ops_watch/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_job/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_master/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/obj_lab/a.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/abstract.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/ops_agent/agent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/attr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/attr_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/data_struct/bisect_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/conf/client.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/temp/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/date_time_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/db_ar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/delector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/functool_partical.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/functool_wraps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/functools_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/get_file_md5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/getitem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/global.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/hash_lib_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/heartbeats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/web_lab/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/interface.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_job/jobsvr-old.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_job/jobsvr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/json_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/shell/kive.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/log_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/log_up_down.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/logger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/logging_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/module/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_master/master-old.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_master/master.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/mulitiprocessing_event_time_out.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocess_condition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_lock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_manager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_mapreduce.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_maxtaskperchild.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_namespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_pool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_semaphore.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/mylog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/mylog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/myredis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/myredis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_update_agent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/os_path/os_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/obj_lab/payload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/payload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/payload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/ping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/ping.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/shell/publish.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/data_struct/queue_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/read_config_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/reflect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/rex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/obj_lab/serial_lab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/server.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/conf/server.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/setup.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/shell/static.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oop/super_init.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/shell/task.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/ops_job/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/test_post.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/u_setup.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_lib/config_lab/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/lib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/lib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/ops_watch/watchdog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/docs/website.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/dictionaries/zhonghong.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/.idea/zops.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/bin/zops_agent.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/agent/bin/zops_keep_watch.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zops/server/bin/zops_server.sh" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.cluo.swp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/advacne.py" afterPath="$PROJECT_DIR$/mutl_process/advacne.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/dist_eg.py" afterPath="$PROJECT_DIR$/mutl_process/dist_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/function_eg.py" afterPath="$PROJECT_DIR$/mutl_process/function_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/iter_eg.py" afterPath="$PROJECT_DIR$/mutl_process/iter_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/list_eg.py" afterPath="$PROJECT_DIR$/mutl_process/list_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/log_up_down.py" afterPath="$PROJECT_DIR$/basic_lib/config_lab/args_merge.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_basic.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_basic.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_basic2.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_basic2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_basic3.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_basic3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_damon.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_damon.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_exit.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_exit.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_import.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_import.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_import_worker.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_import_worker.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_join.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_join.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_join_timeout.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_join_timeout.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_log.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_log.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_logging.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_logging.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_name.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_name.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_notice.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_notice.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_pickle.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_pickle.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_queue.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_queue.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_queue_customer.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_queue_customer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_status.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_status.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_sub.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_sub.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/multiprocessing_sub_suque.py" afterPath="$PROJECT_DIR$/mutl_process/multiprocessing_sub_suque.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/string_eg.py" afterPath="$PROJECT_DIR$/mutl_process/string_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/thread_common.py" afterPath="$PROJECT_DIR$/mutl_process/thread_common.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/thread_context.py" afterPath="$PROJECT_DIR$/mutl_process/thread_context.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/thread_my_local.py" afterPath="$PROJECT_DIR$/mutl_process/thread_my_local.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/thread_private_var.py" afterPath="$PROJECT_DIR$/mutl_process/thread_private_var.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/thread_semaphore.py" afterPath="$PROJECT_DIR$/mutl_process/thread_semaphore.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/LP4E-examples/tunple_eg.py" afterPath="$PROJECT_DIR$/mutl_process/tunple_eg.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch03/makeTextFile.diff" afterPath="$PROJECT_DIR$/pythonCore/ch03/makeTextFile.diff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch03/makeTextFile.py" afterPath="$PROJECT_DIR$/pythonCore/ch03/makeTextFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch03/makeTextFile0.py" afterPath="$PROJECT_DIR$/pythonCore/ch03/makeTextFile0.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch03/makeTextFile1.py" afterPath="$PROJECT_DIR$/pythonCore/ch03/makeTextFile1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch03/readTextFile.py" afterPath="$PROJECT_DIR$/pythonCore/ch03/readTextFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch04/typechk.py" afterPath="$PROJECT_DIR$/pythonCore/ch04/typechk.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/NoneIndex.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/NoneIndex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/idcheck.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/idcheck.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/idcheck2.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/idcheck2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/insertVsColonZero.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/insertVsColonZero.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/queue.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/queue.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/reversedSorted.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/reversedSorted.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/stack.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/stack.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/alt/stringTemplates.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/alt/stringTemplates.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/buggy.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/buggy.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/idcheck.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/idcheck.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/queue.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/queue.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/stack.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/stack.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch06/uniFile.py" afterPath="$PROJECT_DIR$/pythonCore/ch06/uniFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch07/alt/userpw.py" afterPath="$PROJECT_DIR$/pythonCore/ch07/alt/userpw.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch07/userpw.py" afterPath="$PROJECT_DIR$/pythonCore/ch07/userpw.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch08/alt/maxFact.py" afterPath="$PROJECT_DIR$/pythonCore/ch08/alt/maxFact.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch08/maxFact.py" afterPath="$PROJECT_DIR$/pythonCore/ch08/maxFact.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch09/alt/ospathex.py" afterPath="$PROJECT_DIR$/pythonCore/ch09/alt/ospathex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch09/ospathex.py" afterPath="$PROJECT_DIR$/pythonCore/ch09/ospathex.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/alt/cardrun.py" afterPath="$PROJECT_DIR$/pythonCore/ch10/alt/cardrun.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/alt/myexc.py" afterPath="$PROJECT_DIR$/pythonCore/ch10/alt/myexc.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/carddata.txt" afterPath="$PROJECT_DIR$/pythonCore/ch10/carddata.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/cardlog.txt" afterPath="$PROJECT_DIR$/pythonCore/ch10/cardlog.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/cardrun.py" afterPath="$PROJECT_DIR$/pythonCore/ch10/cardrun.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch10/myexc.py" afterPath="$PROJECT_DIR$/pythonCore/ch10/myexc.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/alt/counter.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/counter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/alt/deco.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/deco.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/alt/randGen.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/randGen.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/alt/scope.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/scope.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/alt/simpleGen.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/alt/simpleGen.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/closureVars.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/closureVars.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/deco.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/deco.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/easyMath.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/easyMath.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/funcLog.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/funcLog.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/grabWeb.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/grabWeb.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/numConv.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/numConv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/pfaGUI.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/pfaGUI.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/scope.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/scope.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch11/testit.py" afterPath="$PROJECT_DIR$/pythonCore/ch11/testit.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/anyIter.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/anyIter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/capOpen.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/capOpen.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/descr-tef.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/descr-tef.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/descr-with.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/descr-with.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/descr.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/descr.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/hotel.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/hotel.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/metaIntro.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/metaIntro.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/moneyfmt.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/moneyfmt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/alt/twrapme.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/alt/twrapme.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/anyIter.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/anyIter.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/capOpen.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/capOpen.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/descr.diff" afterPath="$PROJECT_DIR$/pythonCore/ch13/descr.diff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/descr.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/descr.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/descr0.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/descr0.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/descrPRE25.diff" afterPath="$PROJECT_DIR$/pythonCore/ch13/descrPRE25.diff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/descrPRE25.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/descrPRE25.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/hotel.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/hotel.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/meta.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/meta.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/moneyfmt.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/moneyfmt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/numstr.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/numstr.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/randSeq.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/randSeq.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/roundFloat2.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/roundFloat2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/time60.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/time60.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch13/twrapme.py" afterPath="$PROJECT_DIR$/pythonCore/ch13/twrapme.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch14/alt/loopmake.py" afterPath="$PROJECT_DIR$/pythonCore/ch14/alt/loopmake.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch14/alt/xcount.py" afterPath="$PROJECT_DIR$/pythonCore/ch14/alt/xcount.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch14/args.py" afterPath="$PROJECT_DIR$/pythonCore/ch14/args.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch14/funcAttrs.py" afterPath="$PROJECT_DIR$/pythonCore/ch14/funcAttrs.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch14/loopmake.py" afterPath="$PROJECT_DIR$/pythonCore/ch14/loopmake.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch15/alt/gendata.py" afterPath="$PROJECT_DIR$/pythonCore/ch15/alt/gendata.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch15/alt/rewho.py" afterPath="$PROJECT_DIR$/pythonCore/ch15/alt/rewho.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch15/gendata.py" afterPath="$PROJECT_DIR$/pythonCore/ch15/gendata.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch15/rewho.py" afterPath="$PROJECT_DIR$/pythonCore/ch15/rewho.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/ts.zip" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/ts.zip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTclntNew.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTclntNew.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTclntSSBRH.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTclntSSBRH.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTserv.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTserv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTservNew.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTservNew.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTservSS.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTservSS.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsTservSSBRH.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsTservSSBRH.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/alt/tsUserv.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/alt/tsUserv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTclnt.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTclnt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTclntSS.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTclntSS.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTclntTW.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTclntTW.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTserv.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTserv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTservSS.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTservSS.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsTservTW.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsTservTW.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsUclnt.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsUclnt.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch16/tsUserv.py" afterPath="$PROJECT_DIR$/pythonCore/ch16/tsUserv.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch17/getLatestFTP.py" afterPath="$PROJECT_DIR$/pythonCore/ch17/getLatestFTP.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch17/getLatestNNTP.py" afterPath="$PROJECT_DIR$/pythonCore/ch17/getLatestNNTP.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch17/myMail.py" afterPath="$PROJECT_DIR$/pythonCore/ch17/myMail.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/alt/mtfacfib.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/alt/mtfacfib.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtfacfib.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtfacfib.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtsleep1.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtsleep1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtsleep2.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtsleep2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtsleep3.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtsleep3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtsleep4.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtsleep4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/mtsleep5.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/mtsleep5.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/myThread.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/myThread.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/onethr.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/onethr.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch18/prodcons.py" afterPath="$PROJECT_DIR$/pythonCore/ch18/prodcons.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/alt/listdir.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/listdir.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/alt/tkhello0.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/tkhello0.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/alt/tkhello1.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/tkhello1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/alt/tkhello2.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/tkhello2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/alt/tkhello4.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/alt/tkhello4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/animalGtk.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch19/animalGtk.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/animalPmw.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch19/animalPmw.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/animalTix.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch19/animalTix.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/animalWx.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch19/animalWx.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/listdir.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/listdir.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/pfaGUI2.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/pfaGUI2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/tkhello1.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/tkhello1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/tkhello2.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/tkhello2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/tkhello3.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/tkhello3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/tkhello4.py" afterPath="$PROJECT_DIR$/pythonCore/ch19/tkhello4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/advcgi.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/advcgi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/advcgi.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/advcgi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/advcgi2.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/advcgi2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/cgihttpd.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/cgihttpd.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/cgihttpd2.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/cgihttpd2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/friends1.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/friends1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/friends2.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/friends2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/friends3.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/friends3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/alt/myhttpd.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/alt/myhttpd.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/crawl.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/crawl.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/friends.htm" afterPath="$PROJECT_DIR$/pythonCore/ch20/friends.htm" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/friends1.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/friends1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/friends2.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/friends2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/friends3.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/friends3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/myhttpd.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/myhttpd.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/uniCGI.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/uniCGI.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch20/urlopenAuth.py" afterPath="$PROJECT_DIR$/pythonCore/ch20/urlopenAuth.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch21/alt/ushuffle_dbPRE25.py" afterPath="$PROJECT_DIR$/pythonCore/ch21/alt/ushuffle_dbPRE25.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch21/ushuffle_db.py" afterPath="$PROJECT_DIR$/pythonCore/ch21/ushuffle_db.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch21/ushuffle_sa.py" afterPath="$PROJECT_DIR$/pythonCore/ch21/ushuffle_sa.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch21/ushuffle_so.py" afterPath="$PROJECT_DIR$/pythonCore/ch21/ushuffle_so.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch22/Extest1.c" afterPath="$PROJECT_DIR$/pythonCore/ch22/Extest1.c" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch22/Extest2.c" afterPath="$PROJECT_DIR$/pythonCore/ch22/Extest2.c" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch22/setup.py" afterPath="$PROJECT_DIR$/pythonCore/ch22/setup.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/alt/win32demo.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/alt/win32demo.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/estock.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/estock.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/excel.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/excel.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/excel.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/excel.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/olook.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/olook.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/olook.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/olook.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/ppoint.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/ppoint.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/ppoint.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/ppoint.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/stock.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/stock.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/swhello.java" afterPath="$PROJECT_DIR$/pythonCore/ch23/swhello.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/swhello.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/swhello.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/word.py" afterPath="$PROJECT_DIR$/pythonCore/ch23/word.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/ch23/word.pyw" afterPath="$PROJECT_DIR$/pythonCore/ch23/word.pyw" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent1.py" afterPath="$PROJECT_DIR$/gevent/gevent1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent2.py" afterPath="$PROJECT_DIR$/gevent/gevent2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent3.py" afterPath="$PROJECT_DIR$/gevent/gevent3.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent4.py" afterPath="$PROJECT_DIR$/gevent/gevent4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent5.py" afterPath="$PROJECT_DIR$/gevent/gevent5.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent6.py" afterPath="$PROJECT_DIR$/gevent/gevent6.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent7.py" afterPath="$PROJECT_DIR$/gevent/gevent7.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent8.py" afterPath="$PROJECT_DIR$/gevent/gevent8.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent9.py" afterPath="$PROJECT_DIR$/gevent/gevent9.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_10.py" afterPath="$PROJECT_DIR$/gevent/gevent_10.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_event.py" afterPath="$PROJECT_DIR$/gevent/gevent_event.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_join_timeout.py" afterPath="$PROJECT_DIR$/gevent/gevent_join_timeout.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_log_semaphore.py" afterPath="$PROJECT_DIR$/gevent/gevent_log_semaphore.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_mulboss_mulwoker_qunue.py" afterPath="$PROJECT_DIR$/gevent/gevent_mulboss_mulwoker_qunue.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_mulprocessing_pipe.py" afterPath="$PROJECT_DIR$/gevent/gevent_mulprocessing_pipe.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_pool_group.py" afterPath="$PROJECT_DIR$/gevent/gevent_pool_group.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_pool_group_api.py" afterPath="$PROJECT_DIR$/gevent/gevent_pool_group_api.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_pool_limit.py" afterPath="$PROJECT_DIR$/gevent/gevent_pool_limit.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_queue.py" afterPath="$PROJECT_DIR$/gevent/gevent_queue.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_server.py" afterPath="$PROJECT_DIR$/gevent/gevent_server.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_socket_lunxun.py" afterPath="$PROJECT_DIR$/gevent/gevent_socket_lunxun.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_thread_local.py" afterPath="$PROJECT_DIR$/gevent/gevent_thread_local.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_timeout.py" afterPath="$PROJECT_DIR$/gevent/gevent_timeout.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_wsgi.py" afterPath="$PROJECT_DIR$/gevent/gevent_wsgi.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gevent_zeromq.py" afterPath="$PROJECT_DIR$/gevent/gevent_zeromq.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_1.py" afterPath="$PROJECT_DIR$/thread/thread_1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_2.py" afterPath="$PROJECT_DIR$/thread/thread_2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_daemon.py" afterPath="$PROJECT_DIR$/thread/thread_daemon.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_event.py" afterPath="$PROJECT_DIR$/thread/thread_event.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_lock.py" afterPath="$PROJECT_DIR$/thread/thread_lock.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_lock_holder.py" afterPath="$PROJECT_DIR$/thread/thread_lock_holder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_relock.py" afterPath="$PROJECT_DIR$/thread/thread_relock.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_sub.py" afterPath="$PROJECT_DIR$/thread/thread_sub.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/thread_timmer.py" afterPath="$PROJECT_DIR$/thread/thread_timmer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/threads_list_enumerate.py" afterPath="$PROJECT_DIR$/thread/threads_list_enumerate.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/number.py" afterPath="$PROJECT_DIR$/number.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch23/stock.py" afterPath="$PROJECT_DIR$/ch23/stock.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zmq/sub_client.py" afterPath="$PROJECT_DIR$/zmq/sub_client.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zmq/sub_server.py" afterPath="$PROJECT_DIR$/zmq/sub_server.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learingPython.iws" />
@@ -97,10 +396,13 @@
     <SUITE FILE_PATH="coverage/learingPython$gevent_join_timeout.coverage" NAME="gevent_join_timeout Coverage Results" MODIFIED="1421569550139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent_10.coverage" NAME="gevent_10 Coverage Results" MODIFIED="1421569510348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$thread_daemon.coverage" NAME="thread_daemon Coverage Results" MODIFIED="1421650287880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1421817451145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LP4E-examples" />
     <SUITE FILE_PATH="coverage/learingPython$read_code.coverage" NAME="read_code Coverage Results" MODIFIED="1419413842535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$functool_wraps.coverage" NAME="functool_wraps Coverage Results" MODIFIED="1423471727786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_lib/config_lab" />
     <SUITE FILE_PATH="coverage/learingPython$gevent4.coverage" NAME="gevent4 Coverage Results" MODIFIED="1421566184392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$socket.coverage" NAME="socket Coverage Results" MODIFIED="1421150257852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$string.coverage" NAME="string Coverage Results" MODIFIED="1421667661756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LP4E-examples" />
+    <SUITE FILE_PATH="coverage/learingPython$functool_update_wrapper.coverage" NAME="functool_update_wrapper Coverage Results" MODIFIED="1423471529758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_lib/config_lab" />
     <SUITE FILE_PATH="coverage/learingPython$gevent_event.coverage" NAME="gevent_event Coverage Results" MODIFIED="1421570095912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$async.coverage" NAME="async Coverage Results" MODIFIED="1421570371026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$thread_relock.coverage" NAME="thread_relock Coverage Results" MODIFIED="1421663806219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -115,6 +417,7 @@
     <SUITE FILE_PATH="coverage/learingPython$gevent_mulboss_mulwoker_qunue.coverage" NAME="gevent_mulboss_mulwoker_qunue Coverage Results" MODIFIED="1421574367047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$oop.coverage" NAME="oop Coverage Results" MODIFIED="1421387378350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent5.coverage" NAME="gevent5 Coverage Results" MODIFIED="1421336271449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$functool_partical.coverage" NAME="functool_partical Coverage Results" MODIFIED="1423468860225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_lib/config_lab" />
     <SUITE FILE_PATH="coverage/learingPython$gevent9.coverage" NAME="gevent9 Coverage Results" MODIFIED="1421568004320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent8.coverage" NAME="gevent8 Coverage Results" MODIFIED="1421567991950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$number.coverage" NAME="number Coverage Results" MODIFIED="1420278230100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -137,11 +440,12 @@
     <SUITE FILE_PATH="coverage/learingPython$with_contextmanager.coverage" NAME="with_contextmanager Coverage Results" MODIFIED="1421666924947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent2.coverage" NAME="gevent2 Coverage Results" MODIFIED="1421331661546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$long_polling.coverage" NAME="long_polling Coverage Results" MODIFIED="1421586452004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/learingPython$gevent_pool_limit.coverage" NAME="gevent_pool_limit Coverage Results" MODIFIED="1421577330420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent_queue.coverage" NAME="gevent_queue Coverage Results" MODIFIED="1421574394294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$gevent_pool_limit.coverage" NAME="gevent_pool_limit Coverage Results" MODIFIED="1421577330420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$gevent3.coverage" NAME="gevent3 Coverage Results" MODIFIED="1421332742272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$Unittests_in_with.coverage" NAME="Unittests in with Coverage Results" MODIFIED="1421665855123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$advance.coverage" NAME="advance Coverage Results" MODIFIED="1420342737953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learingPython$args_merge.coverage" NAME="args_merge Coverage Results" MODIFIED="1423466083425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_lib/config_lab" />
     <SUITE FILE_PATH="coverage/learingPython$gevent_pool_group.coverage" NAME="gevent_pool_group Coverage Results" MODIFIED="1421574714266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/learingPython$sub_server.coverage" NAME="sub_server Coverage Results" MODIFIED="1421152853774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zmq" />
   </component>
@@ -156,68 +460,7 @@
     <favorites_list name="learingPython" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="log_up_down.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LP4E-examples/log_up_down.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread_semaphore.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_semaphore.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.5750274" vertical-offset="0" max-vertical-offset="913">
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread_private_var.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_private_var.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-              <folding>
-                <element signature="e#21#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread_my_local.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_my_local.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-              <folding>
-                <element signature="e#21#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="threading.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="35" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="20025">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thread.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/thread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4425">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -230,65 +473,65 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/gevent_timeout.py" />
-        <option value="$PROJECT_DIR$/gevent4.py" />
-        <option value="$PROJECT_DIR$/gevent6.py" />
-        <option value="$PROJECT_DIR$/gevent7.py" />
-        <option value="$PROJECT_DIR$/gevent9.py" />
-        <option value="$PROJECT_DIR$/gevent_10.py" />
-        <option value="$PROJECT_DIR$/gevent_join_timeout.py" />
-        <option value="$PROJECT_DIR$/gevent_event.py" />
-        <option value="$PROJECT_DIR$/async.py" />
-        <option value="$PROJECT_DIR$/gevent_mulboss_mulwoker_qunue.py" />
-        <option value="$PROJECT_DIR$/gevent_queue.py" />
-        <option value="$PROJECT_DIR$/gevent_pool_group.py" />
-        <option value="$PROJECT_DIR$/gevent_pool_group_api.py" />
-        <option value="$PROJECT_DIR$/gevent_pool_limit.py" />
-        <option value="$PROJECT_DIR$/gevent_socket_lunxun.py" />
-        <option value="$PROJECT_DIR$/gevent_log_semaphore.py" />
-        <option value="$PROJECT_DIR$/gevent_thread_local.py" />
-        <option value="$PROJECT_DIR$/gevent_mulprocessing_pipe.py" />
-        <option value="$PROJECT_DIR$/gevent8.py" />
-        <option value="$PROJECT_DIR$/gevent_zeromq.py" />
-        <option value="$PROJECT_DIR$/gevent_server.py" />
-        <option value="$PROJECT_DIR$/gevent_wsgi.py" />
-        <option value="$PROJECT_DIR$/long_polling.py" />
-        <option value="$PROJECT_DIR$/dive.py" />
-        <option value="$PROJECT_DIR$/signal.py" />
-        <option value="$PROJECT_DIR$/tread.py" />
-        <option value="$PROJECT_DIR$/thread_1.py" />
-        <option value="$PROJECT_DIR$/thread_2.py" />
-        <option value="$PROJECT_DIR$/thread_daemon.py" />
-        <option value="$PROJECT_DIR$/threads_list_enumerate.py" />
-        <option value="$PROJECT_DIR$/thread_sub.py" />
-        <option value="$PROJECT_DIR$/thread_timmer.py" />
-        <option value="$PROJECT_DIR$/thread_event.py" />
-        <option value="$PROJECT_DIR$/thread_lock.py" />
-        <option value="$PROJECT_DIR$/thread_lock_holder.py" />
-        <option value="$PROJECT_DIR$/thread_relock.py" />
-        <option value="$PROJECT_DIR$/with.py" />
-        <option value="$PROJECT_DIR$/with_contextlib.py" />
-        <option value="$PROJECT_DIR$/with_1.py" />
-        <option value="$PROJECT_DIR$/with_contextmanager.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/string.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/list.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/dist.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/tunple.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/advacne.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/iter.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/function.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/log_up_down.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/thread_semaphore.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/thread_private_var.py" />
-        <option value="$PROJECT_DIR$/LP4E-examples/thread_my_local.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocess_condition.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_semaphore.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_manager.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_namespace.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_pool.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_maxtaskperchild.py" />
+        <option value="$PROJECT_DIR$/LP4E-examples/multiprocessing_mapreduce.py" />
+        <option value="$PROJECT_DIR$/zops/apscheduler.py" />
+        <option value="$PROJECT_DIR$/zops/agent/conf/client.confi.py" />
+        <option value="$PROJECT_DIR$/zops/agent/conf/client.conf.py" />
+        <option value="$PROJECT_DIR$/zops/agent/lib/logger.py" />
+        <option value="$PROJECT_DIR$/zops/agent/lib/heartbeats.py" />
+        <option value="$PROJECT_DIR$/oop/attr.py" />
+        <option value="$PROJECT_DIR$/oop/method.py" />
+        <option value="$PROJECT_DIR$/oop/attr_method.py" />
+        <option value="$PROJECT_DIR$/oop/super_init.py" />
+        <option value="$PROJECT_DIR$/oop/interface.py" />
+        <option value="$PROJECT_DIR$/oop/abstract.py" />
+        <option value="$PROJECT_DIR$/oop/global.py" />
+        <option value="$PROJECT_DIR$/oop/dict.py" />
+        <option value="$PROJECT_DIR$/oop/getitem.py" />
+        <option value="$PROJECT_DIR$/oop/iter.py" />
+        <option value="$PROJECT_DIR$/oop/iter1.py" />
+        <option value="$PROJECT_DIR$/py_obj_lab/payload.py" />
+        <option value="$PROJECT_DIR$/basic_lib/data_struct/queue.py" />
+        <option value="$PROJECT_DIR$/basic_lib/data_struct/bisect.html" />
+        <option value="$PROJECT_DIR$/basic_lib/data_struct/bisect.py" />
+        <option value="$PROJECT_DIR$/basic_lib/data_struct/bisect_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/os_path/os_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/web_lab/index.py" />
+        <option value="$PROJECT_DIR$/basic_lib/web_lab/hello.py" />
+        <option value="$PROJECT_DIR$/zops/server/ops_api.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/read_config_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/hash_lib_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/get_file_md5.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/util.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/log_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/json_lib.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/logging_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/logger.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/functools.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/function_tool_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/refect.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/reflect.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/rex.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/delector.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/functools_lab.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/args_merge.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/functool_partical.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py" />
+        <option value="$PROJECT_DIR$/basic_lib/config_lab/functool_wraps.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="-258" />
-    <option name="width" value="617" />
-    <option name="height" value="1054" />
+    <option name="x" value="-1920" />
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -301,9 +544,32 @@
             <id>CSS</id>
           </State>
           <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
             <id>RELAX NG</id>
           </State>
+          <State>
+            <id>SQL</id>
+          </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -328,8 +594,8 @@
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
     </navigator>
     <panes>
@@ -341,6 +607,50 @@
               <option name="myItemId" value="learingPython" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.9 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.9 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site-packages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 2.7.9 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python2.7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -349,6 +659,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zops" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,7 +686,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LP4E-examples" />
+              <option name="myItemId" value="zops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ops_master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zops" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,16 +743,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ops" />
+    <property name="last_opened_file_path" value="/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
     <property name="SearchEverywhereHistory" value="" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -389,93 +762,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cookbook" />
+      <recent name="$PROJECT_DIR$/basic_lib/config_lab" />
+      <recent name="$PROJECT_DIR$/zops" />
+      <recent name="$PROJECT_DIR$/oop" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.string">
-    <configuration default="false" name="thread_relock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/thread_relock.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in with" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="with_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with_1.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="with_contextmanager" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="learingPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/with_contextmanager.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.functool_wraps">
+    <configuration default="false" name="multiprocessing_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -488,10 +783,88 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learingPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LP4E-examples/string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LP4E-examples/multiprocessing_pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="args_merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_lib/config_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_lib/config_lab/args_merge.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="functool_update_wrapper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_lib/config_lab" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="functool_partical" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_lib/config_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_lib/config_lab/functool_partical.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="functool_wraps" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic_lib/config_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="learingPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_lib/config_lab/functool_wraps.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -645,19 +1018,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.thread_relock" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in with" />
-      <item index="2" class="java.lang.String" itemvalue="Python.with_1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.with_contextmanager" />
-      <item index="4" class="java.lang.String" itemvalue="Python.string" />
+      <item index="0" class="java.lang.String" itemvalue="Python.multiprocessing_pickle" />
+      <item index="1" class="java.lang.String" itemvalue="Python.args_merge" />
+      <item index="2" class="java.lang.String" itemvalue="Python.functool_update_wrapper" />
+      <item index="3" class="java.lang.String" itemvalue="Python.functool_partical" />
+      <item index="4" class="java.lang.String" itemvalue="Python.functool_wraps" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.string" />
-        <item index="1" class="java.lang.String" itemvalue="Python.with_contextmanager" />
-        <item index="2" class="java.lang.String" itemvalue="Python.with_1" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in with" />
-        <item index="4" class="java.lang.String" itemvalue="Python.thread_relock" />
+        <item index="0" class="java.lang.String" itemvalue="Python.functool_wraps" />
+        <item index="1" class="java.lang.String" itemvalue="Python.functool_update_wrapper" />
+        <item index="2" class="java.lang.String" itemvalue="Python.functool_partical" />
+        <item index="3" class="java.lang.String" itemvalue="Python.args_merge" />
+        <item index="4" class="java.lang.String" itemvalue="Python.multiprocessing_pickle" />
       </list>
     </recent_temporary>
   </component>
@@ -688,7 +1061,7 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView" selected-index="0">
+  <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
       <are-modules-shown value="false" />
@@ -709,27 +1082,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-258" width="617" height="1054" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1920" y="22" width="1280" height="1058" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14699793" sideWeight="0.6882068" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780084" sideWeight="0.22859451" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31522897" sideWeight="0.49949238" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29137057" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.378125" sideWeight="0.5005076" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47421637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2484375" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24717286" sideWeight="0.496063" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3360996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23909532" sideWeight="0.5019685" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33056134" sideWeight="0.3117932" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23755187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45738044" sideWeight="0.3739903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06294416" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21428572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -749,313 +1122,345 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <url>file://$PROJECT_DIR$/gevent/gevent1.py</url>
           <line>5</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <url>file://$PROJECT_DIR$/gevent/gevent1.py</url>
           <line>4</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <url>file://$PROJECT_DIR$/gevent/gevent1.py</url>
           <line>9</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <url>file://$PROJECT_DIR$/gevent/gevent1.py</url>
           <line>10</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/gevent1.py</url>
+          <url>file://$PROJECT_DIR$/gevent/gevent1.py</url>
           <line>11</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_lib/data_struct/bisect_lab.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gevent_zeromq.py">
+    <entry file="file:///Library/Python/2.7/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="30" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gevent_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gevent_wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/long_polling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="11" selection-start="402" selection-end="402" vertical-scroll-proportion="0.29656607" vertical-offset="0" max-vertical-offset="961" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/second.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="156" selection-end="156" vertical-scroll-proportion="0.15625" vertical-offset="0" max-vertical-offset="1335" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/args.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="7" selection-start="357" selection-end="357" vertical-scroll-proportion="0.13988096" vertical-offset="161" max-vertical-offset="3555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/advance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="20" selection-start="382" selection-end="382" vertical-scroll-proportion="0.44642857" vertical-offset="0" max-vertical-offset="720" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/subprocess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/signal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="9" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="50" selection-start="446" selection-end="446" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_daemon.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_sub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_timmer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/threads_list_enumerate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="24" selection-start="543" selection-end="543" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_event.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="10" selection-start="687" selection-end="687" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="783" column="4" selection-start="25910" selection-end="25910" vertical-scroll-proportion="0.34124628" vertical-offset="11515" max-vertical-offset="77265" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_lock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_lock_holder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_relock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/with.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/with_contextlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="27" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/with_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/with_contextmanager.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch04.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9315" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch02.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="651" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch06.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.82191783" vertical-offset="540" max-vertical-offset="1830" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch12.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3195" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch11.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.2142856" vertical-offset="1395" max-vertical-offset="8700" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch26.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="115" column="14" selection-start="3461" selection-end="3461" vertical-scroll-proportion="1.849315" vertical-offset="510" max-vertical-offset="3540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch28.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="60" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-8.071428" vertical-offset="6060" max-vertical-offset="7575" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch16.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.7238806" vertical-offset="485" max-vertical-offset="1155" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/ch17.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.5851735" vertical-offset="1005" max-vertical-offset="8760" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="37" selection-start="797" selection-end="797" vertical-scroll-proportion="0.8138298" vertical-offset="0" max-vertical-offset="940" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/dist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="37" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.68297875" vertical-offset="333" max-vertical-offset="1380" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/tunple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="7" selection-start="658" selection-end="658" vertical-scroll-proportion="0.70212764" vertical-offset="0" max-vertical-offset="940" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/advacne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="44" selection-start="638" selection-end="638" vertical-scroll-proportion="0.5744681" vertical-offset="0" max-vertical-offset="940" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/function.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="4" selection-start="463" selection-end="463" vertical-scroll-proportion="0.4787234" vertical-offset="0" max-vertical-offset="940" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/iter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="0" selection-start="1616" selection-end="1616" vertical-scroll-proportion="0.92234045" vertical-offset="648" max-vertical-offset="1605" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="48" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.8744681" vertical-offset="438" max-vertical-offset="1395" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gevent_log_semaphore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/log_up_down.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+        <state line="36" column="0" selection-start="1530" selection-end="1530" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1802">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/596071422/thread.py">
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="9" selection-start="503" selection-end="503" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4425">
+        <state line="39" column="24" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py">
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functool_wraps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="35" selection-start="1248" selection-end="1248" vertical-scroll-proportion="0.0" vertical-offset="197" max-vertical-offset="20025">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_my_local.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="19" column="8" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
           <folding>
-            <element signature="e#21#34#0" expanded="true" />
+            <marker date="1423471704000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423471704000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_private_var.py">
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+        <state line="240" column="33" selection-start="5971" selection-end="5971" vertical-scroll-proportion="0.0" vertical-offset="4080" max-vertical-offset="4182">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/hash_lib_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/traceback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5542">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1530" selection-end="1530" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutl_process/multiprocessing_namespace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="597" selection-end="597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutl_process/multiprocessing_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="60" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutl_process/multiprocessing_maxtaskperchild.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="34" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutl_process/multiprocessing_mapreduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="405" selection-end="405" vertical-scroll-proportion="0.20744681" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="46" selection-start="602" selection-end="602" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="725" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/abstract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gevent/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="677" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/attr_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="150" selection-end="150" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/attr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="18" selection-start="468" selection-end="468" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/global.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="12" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/getitem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/iter1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/data_struct/bisect_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="18" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="1020">
           <folding>
-            <element signature="e#21#34#0" expanded="true" />
+            <element signature="e#42#55#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LP4E-examples/thread_semaphore.py">
+    <entry file="file://$PROJECT_DIR$/basic_lib/data_struct/queue_lab.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="866" selection-end="866" vertical-scroll-proportion="0.5750274" vertical-offset="0" max-vertical-offset="913">
+        <state line="14" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/os_path/os_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="163" selection-end="163" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/web_lab/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="186" selection-end="186" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/server.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/super_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="4" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/date_time_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="29" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/log_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/json_lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/delector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="-0.06750392" vertical-offset="178" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/rex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="15" selection-start="724" selection-end="724" vertical-scroll-proportion="0.24646781" vertical-offset="548" max-vertical-offset="1185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/reflect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.6136364" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/get_file_md5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="349" selection-end="349" vertical-scroll-proportion="0.27272728" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="85" selection-end="85" vertical-scroll-proportion="0.06818182" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/logging_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="51" selection-start="275" selection-end="275" vertical-scroll-proportion="0.13636364" vertical-offset="0" max-vertical-offset="660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cluo1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/read_config_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/args_merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="6" selection-start="679" selection-end="679" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functools_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="4" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functool_partical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="550" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1530" selection-end="1530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functool_update_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="24" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/functool_wraps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="8" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <marker date="1423471704000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1423471704000" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="240" column="33" selection-start="5971" selection-end="5971" vertical-scroll-proportion="0.0" vertical-offset="2919" max-vertical-offset="3690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/traceback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_lib/config_lab/hash_lib_lab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="18" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/[Python.Cookbook(第2版)中文版]示例源码/cb2_1_0_exm_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="773">
+          <folding />
         </state>
       </provider>
     </entry>
