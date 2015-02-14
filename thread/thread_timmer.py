@@ -2,6 +2,8 @@ __author__ = 'admin'
 import threading
 import time
 import logging
+#延时一定的时候后开始工作，可以再这个延时期间内的任意时刻取消
+#非守护线程 主程序完成时,线程会隐式退出
 logging.basicConfig(level=logging.DEBUG,
 					format='(%(threadName)-10s) %(message)s')
 def delayed():

@@ -1,4 +1,4 @@
-__author__ = 'admin'
+_author__ = 'admin'
 import logging
 import threading
 import time
@@ -26,7 +26,9 @@ def worker(lock):
 	while num_acquires < 3:
 		time.sleep(0.5)
 		logging.debug('Trying to acquire')
-		have_it = lock.acquire(0)
+		have_it = lock.acquire(0)  #查看另外一个进程是否请求锁 而不影响当前进程
+                                   #如果lock重复acquire会导致死锁
+                                   #设置了超时0 避免永久阻塞
 		try:
 			num_tries += 1
 			if have_it:
@@ -41,7 +43,7 @@ def worker(lock):
 
 lock = threading.Lock()
 holder = threading.Thread(target=lock_holder,args=(lock,),name='LockHolder')
-holder.setDaemon(True)
+holder.setDaemon(True) #守护线程,不阻塞主程序退出,主程序退出依然存在
 holder.start()
 
 worker = threading.Thread(target=worker,args=(lock,), name='Worker')

@@ -10,7 +10,7 @@ def my_service():
 	time.sleep(2)
 	print threading.currentThread().getName(), 'Exting'
 
-t = threading.Thread(name='my_service', target=my_service)
+t = threading.Thread(name='my_service', target=my_service) #注册线程名 和线程函数
 w = threading.Thread(name='worker', target=worker)
 w2 = threading.Thread(target=worker)
 

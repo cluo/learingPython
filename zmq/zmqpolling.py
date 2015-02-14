@@ -3,6 +3,8 @@
 # Created by iFantastic on 15-2-11
 __author__ = 'cluo'
 
+#poller 注册轮询
+
 import zmq
 import time
 import sys

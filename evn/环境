@@ -1,0 +1,4 @@
+echo $PATH #环境引用的先后
+/usr/local/bin/python
+/usr/bin/python
+

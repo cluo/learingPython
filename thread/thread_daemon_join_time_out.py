@@ -4,8 +4,7 @@ __author__ = 'admin'
 import logging
 import threading
 import time
-#程序等待所有非守护线程工作后才退出
-#守护线程 会一直运行不会阻塞程序退出
+#等待守护进程完成要用join,防止无限阻塞用join(sec)
 logging.basicConfig(
     level=logging.DEBUG,
     format='[%(levelname)s] %(message)s'
@@ -25,15 +24,15 @@ t = threading.Thread(name='non-daemon', target=non_daemon)
 
 d.start()
 t.start()
-# start = time.time()
-# d.join(1.1)
-# t.join(1.1)
-# end = time.time()
-# print (end - start) #join所有线程
+start = time.time()
+d.join(2) #等待守护进程退出
+t.join()
+end = time.time()
+print (end - start) #join所有线程
 
 
 print 't.isAlive()', t.isAlive()
-print 'd.isAlive()', d.isAlive()
+print 'd.isAlive()', d.isAlive() #阻塞等待程序退出
 
 
 
