@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Created by iFantastic on 15-2-16
+#如果直接用compress 和 decompress 要求系统有足够的内存 能搞在内存中同时候驻留未压缩和压缩版本
+#因此对于真实世界的用例并不实用
+#另一种方法是用compress decompress 对象以增量的方式处理数据 这样就不需要将整个数据都放在内存中
+
+增量压缩测试文件

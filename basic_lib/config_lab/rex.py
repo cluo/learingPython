@@ -2,16 +2,16 @@
 #-*- coding:utf8 -*-
 __author__ = 'admin'
 import re
-pattern = re.compile(r"hello")
+pattern = re.compile(r"hello")         #形式1
 match = pattern.match('hello world')
 if match:
 	print match.group()
 
-a  = re.compile(r"""
+a  = re.compile(r"""     #带注释的正则
 \d+ #interger
 \.	#the decimal point
 \d* #some facitonal
-""",re.X);
+""",re.X)
 b = re.compile(r"\d+\.\d*")
 
 
@@ -21,18 +21,19 @@ match = a.match('11.22')
 if match:
 	print match.group()
 
+
 match = b.match('11.22')
 if match:
 	print match.group()
 
-p = re.compile(r'(\w+) (\w+)(?P<sign>.*)')
+p = re.compile(r'(\w+) (\w+)(?P<sign>.*)')  #组标签
 print p.pattern
 print p.flags
 print p.groups
 print p.groupindex
 
 #全匹配
-m = re.match(p,'hello world!')
+m = re.match(p,'hello world!')  #形式2
 
 print m.string
 print m.re
@@ -54,12 +55,9 @@ pattern = re.compile(r'world')
 match = pattern.search('hello world!')
 if match:
 	print match.group()
-
-
 p = re.compile(r'\d+')
 print p.split('one1two2tree3four4')
 print p.findall('one1two2tree3four4')
-
 for m in p.finditer('one1two2three3four4'):
 	print m.group()
 
@@ -70,4 +68,7 @@ def func(m):
 	return m.group(1).title() + ' ' + m.group(2).title()
 print p.sub(func, s)
 print p.subn(func, s)
+
+from sys import exit
+exit()
 

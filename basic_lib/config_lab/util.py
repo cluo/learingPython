@@ -121,7 +121,7 @@ def clean_proc(proc, wait_for_kill=10):
     try:
         waited = 0
         while proc.is_alive():
-            proc.terminate()
+            proc.terminate() #进程退出
             waited += 1
             time.sleep(0.1)
             if proc.is_alive() and (waited >= wait_for_kill):

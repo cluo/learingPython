@@ -3,25 +3,28 @@
 # Created by iFantastic on 15-2-15
 __author__ = 'cluo'
 import os
-import PIL
-
 from multiprocessing import Pool
 from PIL import Image
 
-SIZE = (75, 75)
+SIZE = (20, 20)
 SAVE_DIRECTORY = 'thumbs'
 
 def get_image_paths(folder):
     return (os.path.join(folder, f)
             for f in os.listdir(folder)
-            if 'jpg' in f)
+            if 'jpeg' in f)
 
 def create_thumbnail(filename):
-    im = Image.open(filename)
-    im.thumbnail(SIZE, Image.ANTIALIAS)
-    base, fname = os.path.split(filename)
-    save_path = os.path.join(base, SAVE_DIRECTORY, fname)
-    im.save(save_path)
+    try:
+        print filename
+        # im = Image.open(filename)
+        # im.thumbnail(SIZE)
+        base, fname = os.path.split(filename)
+        save_path = os.path.join(base, SAVE_DIRECTORY, fname)
+        print save_path
+        # im.save(save_path,"JPEG")
+    except IOError:
+        print ('cannot convert')
 
 if __name__ == '__main__':
     folder = os.path.abspath('./img')
