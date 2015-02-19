@@ -34,6 +34,12 @@ import os
 import sys
 import time
 
+print sys.argv
+# $ python /Users/admin/gitSource/learingPython/basic_lib/os_lab/os_stat.py  ./cluo
+# ['/Users/admin/gitSource/learingPython/basic_lib/os_lab/os_stat.py', './cluo']
+
+
+
 if len(sys.argv) == 1:
     filename = __file__
 else:
@@ -47,4 +53,11 @@ print '\tPermissions:', oct(stat_info.st_mode)
 print '\tOwner:', stat_info.st_uid
 print '\tDevice:', stat_info.st_dev
 print '\tLast modified:', time.ctime(stat_info.st_mtime)
+
+# os.stat(./cluo):
+#         Size: 34
+#         Permissions: 0100644
+#         Owner: 501
+#         Device: 16777218
+#         Last modified: Fri Jan 16 22:50:30 2015
 

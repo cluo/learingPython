@@ -36,11 +36,16 @@ link_name = '/tmp/' + os.path.basename(__file__)
 
 print 'Creating link %s -> %s' % (link_name, __file__)
 os.symlink(__file__, link_name)
+# Creating link /tmp/os_symlinks.py -> /Users/admin/gitSource/learingPython/basic_lib/os_lab/os_symlinks.py
 
 stat_info = os.lstat(link_name)
 print 'Permissions:', oct(stat_info.st_mode)
+# Permissions: 0120755
 
 print 'Points to:', os.readlink(link_name)
+# Points to: /Users/admin/gitSource/learingPython/basic_lib/os_lab/os_symlinks.py
 
 # Cleanup
 os.unlink(link_name)
+
+

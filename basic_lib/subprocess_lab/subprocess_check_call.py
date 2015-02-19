@@ -9,6 +9,7 @@
 import subprocess
 
 try:
-    subprocess.check_call(['false'])
+    subprocess.check_call(['false'])      #check_call如果出错会产生异常
 except subprocess.CalledProcessError as err:
     print 'ERROR:', err
+# ERROR: Command '['false']' returned non-zero exit status 1

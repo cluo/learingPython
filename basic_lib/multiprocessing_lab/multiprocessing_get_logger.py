@@ -16,7 +16,7 @@ def worker():
     sys.stdout.flush()
 
 if __name__ == '__main__':
-    multiprocessing.log_to_stderr()
+    multiprocessing.log_to_stderr()     #调试日志
     logger = multiprocessing.get_logger()
     logger.setLevel(logging.INFO)
     p = multiprocessing.Process(target=worker)

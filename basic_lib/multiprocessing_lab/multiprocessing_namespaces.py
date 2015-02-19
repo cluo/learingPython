@@ -23,7 +23,7 @@ def consumer(ns, event):
 
 if __name__ == '__main__':
     mgr = multiprocessing.Manager()
-    namespace = mgr.Namespace()
+    namespace = mgr.Namespace()    #进程共享命名空间
     event = multiprocessing.Event()
     p = multiprocessing.Process(target=producer,
                                 args=(namespace, event))

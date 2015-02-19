@@ -37,3 +37,10 @@ else:
     print 'CHANGE USER:'
     show_user_info()
     print
+# BEFORE CHANGE:
+# User (actual/effective)  : 501 / 501
+# Group (actual/effective) : 20 / 20
+# Actual Groups   : [20, 401, 12, 61, 79, 80, 81, 98, 33, 100, 204, 398, 399]
+#
+# ERROR: Could not change effective group.  Rerun as root.
+# ERROR: Could not change effective user.  Rerun as root.

@@ -36,7 +36,7 @@ import subprocess
 import time
 import sys
 
-proc = subprocess.Popen(['python', 'signal_child.py'])
+proc = subprocess.Popen(['python', 'signal_child.py']) #返回打开子进程的进程ID
 print 'PARENT      : Pausing before sending signal...'
 sys.stdout.flush()
 time.sleep(1)

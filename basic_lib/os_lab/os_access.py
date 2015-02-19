@@ -37,3 +37,9 @@ print 'Exists:', os.access(__file__, os.F_OK)
 print 'Readable:', os.access(__file__, os.R_OK)
 print 'Writable:', os.access(__file__, os.W_OK)
 print 'Executable:', os.access(__file__, os.X_OK)
+
+# Testing: /Users/admin/gitSource/learingPython/basic_lib/os_lab/os_access.py
+# Exists: True
+# Readable: True
+# Writable: True
+# Executable: False

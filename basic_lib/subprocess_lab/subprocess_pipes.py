@@ -20,7 +20,7 @@ grep = subprocess.Popen(['grep', '.. include::'],
 
 cut = subprocess.Popen(['cut', '-f', '3', '-d:'],
                         stdin=grep.stdout,
-                        stdout=subprocess.PIPE,
+                        stdout=subprocess.PIPE,  #管道
                         )
 
 end_of_pipe = cut.stdout

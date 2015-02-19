@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -42,11 +42,24 @@ for i in range(2):
         print 'WORKER %s: Starting' % i
         time.sleep(2 + i)
         print 'WORKER %s: Finishing' % i
-        sys.exit(i)
+        sys.exit(i) #退出进程
     workers.append(worker_pid)
 
+print workers
 for pid in workers:
     print 'PARENT: Waiting for %s' % pid
-    done = os.waitpid(pid, 0)
+    done = os.waitpid(pid, 0) #等待特性的进程返回用waitpid(pid)
     print 'PARENT: Child done:', done
 
+
+# PARENT 82017: Forking 0
+# PARENT 82017: Forking 1
+# WORKER 0: Starting
+# [82018, 82019]
+# WORKER 1: StartingPARENT: Waiting for 82018
+#
+# WORKER 0: Finishing
+# PARENT: Child done: (82018, 0)
+# PARENT: Waiting for 82019
+# WORKER 1: Finishing
+# PARENT: Child done: (82019, 256)

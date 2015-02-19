@@ -37,3 +37,4 @@ if child_pid:
     os.waitpid(child_pid, 0)
 else:
     os.execlp('pwd', 'pwd', '-P')
+    #/Users/admin/gitSource/learingPython/basic_lib/os_lab

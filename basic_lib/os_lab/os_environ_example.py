@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -35,13 +35,19 @@ import os
 print 'Initial value:', os.environ.get('TESTVAR', None)
 print 'Child process:'
 os.system('echo $TESTVAR')
-
+# Initial value: None
+# Child process:
+#
 os.environ['TESTVAR'] = 'THIS VALUE WAS CHANGED'
 
 print
 print 'Changed value:', os.environ['TESTVAR']
 print 'Child process:' 
 os.system('echo $TESTVAR')
+#
+# Changed value: THIS VALUE WAS CHANGED
+# Child process:
+# THIS VALUE WAS CHANGED
 
 del os.environ['TESTVAR']
 
@@ -49,3 +55,7 @@ print
 print 'Removed value:', os.environ.get('TESTVAR', None)
 print 'Child process:' 
 os.system('echo $TESTVAR')
+
+#
+# Removed value: None
+# Child process:

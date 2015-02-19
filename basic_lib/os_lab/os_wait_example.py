@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -37,6 +37,7 @@ import time
 for i in range(2):
     print 'PARENT %s: Forking %s' % (os.getpid(), i)
     worker_pid = os.fork()
+    print "child_pid",worker_pid
     if not worker_pid:
         print 'WORKER %s: Starting' % i
         time.sleep(2 + i)
@@ -45,6 +46,18 @@ for i in range(2):
 
 for i in range(2):
     print 'PARENT: Waiting for %s' % i
-    done = os.wait()
-    print 'PARENT: Child done:', done
+    done = os.wait() #一旦有子进程退出,它就会返回
+    print 'PARENT: Child done:', done  #返回进程退出的子进程ID 和退出状态
 
+
+
+# PARENT 79583: Forking 0
+# PARENT 79583: Forking 1
+# WORKER 0: Starting
+# PARENT: Waiting for 0
+# WORKER 1: Starting
+# WORKER 0: Finishing
+# PARENT: Child done: (79584, 0)
+# PARENT: Waiting for 1
+# WORKER 1: Finishing
+# PARENT: Child done: (79585, 256)

@@ -39,7 +39,8 @@ else:
     root = sys.argv[1]
 
 for dir_name, sub_dirs, files in os.walk(root):
-    print dir_name
+    print dir_name #返回所有mulu
+
     # Make the subdirectory names stand out with /
     sub_dirs = [ '%s/' % n for n in sub_dirs ]
     # Mix the directory contents together
@@ -49,3 +50,41 @@ for dir_name, sub_dirs, files in os.walk(root):
     for c in contents:
         print '\t%s' % c
     print
+
+
+
+
+
+# /tmp
+# 	.pd/
+# 	KSOutOfProcessFetcher.501.OlaJUhhgKAnFsX7fZ0FyXTFxIgg=/
+# 	KSOutOfProcessFetcher.tSEKseLfpG/
+# 	aprTOrFZ0
+# 	launch-h6gzLN/
+# 	launch-oAj9PS/
+# 	launchd-1774.BF45pO/
+# 	launchd-2246.0XDlDd/
+# 	launchd-976.ifK0r4/
+# 	parallels_crash_dumps/
+#
+# /tmp/.pd
+# 	501/
+#
+# /tmp/.pd/501
+#
+# /tmp/KSOutOfProcessFetcher.501.OlaJUhhgKAnFsX7fZ0FyXTFxIgg=
+# 	ksfetch
+#
+# /tmp/KSOutOfProcessFetcher.tSEKseLfpG
+# 	download
+#
+# /tmp/launch-h6gzLN
+# 	Listeners
+#
+# /tmp/launch-oAj9PS
+# 	Render
+#
+# /tmp/launchd-976.ifK0r4
+# 	sock
+#
+# /tmp/parallels_crash_dumps

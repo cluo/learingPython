@@ -40,7 +40,7 @@ with open(filename, 'wt') as f:
     f.write('contents')
 
 # Determine what permissions are already set using stat
-existing_permissions = stat.S_IMODE(os.stat(filename).st_mode)
+existing_permissions = stat.S_IMODE(os.stat(filename).st_mode) #存在的权限
 
 if not os.access(filename, os.X_OK):
     print 'Adding execute permission'

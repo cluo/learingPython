@@ -20,7 +20,7 @@ signal.signal(signal.SIGUSR2, receive_signal)
 
 if __name__ == '__main__':
     print 'my pid is :', os.getpid()
-    while True:
+    while True:    #停止等待信号
         print 'Waiting...'
         print os.getpid()
         print 'usr1:',signal.SIGUSR1

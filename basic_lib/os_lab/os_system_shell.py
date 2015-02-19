@@ -33,4 +33,5 @@ __module_id__ = "$Id$"
 import os
 
 # Command with shell expansion
-os.system('echo $TMPDIR')
+os.system('echo $TMPDIR') #执行SHELL表达式
+# /var/folders/yb/qdvm60wn1gn6jbt80bnv8n2r0000gn/T/

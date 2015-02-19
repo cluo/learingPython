@@ -19,6 +19,6 @@ proc = subprocess.Popen('cat -; echo "to stderr" 1>&2',
                         stderr=subprocess.STDOUT,
                         )
 msg = 'through stdin to stdout\n'
-stdout_value, stderr_value = proc.communicate(msg)
+stdout_value, stderr_value = proc.communicate(msg) #communicate 方法读取所有输出 返回之前要等待子进程退出
 print '\tcombined output:', repr(stdout_value)
 print '\tstderr value   :', repr(stderr_value)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -31,5 +31,5 @@ __module_id__ = "$Id$"
 #end_pymotw_header
 
 import glob
-for name in glob.glob('dir/*[0-9].*'):
+for name in glob.glob('dir/*[0-9].*'): #字符区间
     print name

@@ -35,5 +35,5 @@ if __name__ == '__main__':
     time.sleep(1)
     n.start()
 
-    d.join()
+    d.join()#无限阻塞等待返回
     n.join()

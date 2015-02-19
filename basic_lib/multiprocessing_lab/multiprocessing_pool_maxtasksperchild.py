@@ -25,7 +25,7 @@ if __name__ == '__main__':
     pool_size = multiprocessing.cpu_count() * 2
     pool = multiprocessing.Pool(processes=pool_size,
                                 initializer=start_process,
-                                maxtasksperchild=2,
+                                maxtasksperchild=2,#每个进程一次完成2个任务
                                 )
     pool_outputs = pool.map(do_calculation, inputs)
     pool.close() # no more tasks

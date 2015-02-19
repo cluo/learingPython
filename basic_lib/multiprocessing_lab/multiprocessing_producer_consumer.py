@@ -24,11 +24,11 @@ class Consumer(multiprocessing.Process):
             if next_task is None:
                 # Poison pill means shutdown
                 print '%s: Exiting' % proc_name
-                self.task_queue.task_done()
+                self.task_queue.task_done()  #遇到None退出循环
                 break
             print '%s: %s' % (proc_name, next_task)
             answer = next_task()
-            self.task_queue.task_done()
+            self.task_queue.task_done() #停止阻塞
             self.result_queue.put(answer)
         return
 
@@ -74,3 +74,32 @@ if __name__ == '__main__':
         result = results.get()
         print 'Result:', result
         num_jobs -= 1
+# Creating 8 consumers
+# Consumer-2: 0 * 0
+# Consumer-1: 1 * 1
+# Consumer-3: 2 * 2
+# Consumer-4: 3 * 3
+# Consumer-5: 4 * 4
+# Consumer-6: 5 * 5
+# Consumer-7: 6 * 6
+# Consumer-8: 7 * 7
+# Consumer-1: 8 * 8Consumer-2: 9 * 9
+#
+# Consumer-4: Exiting
+# Consumer-6: ExitingConsumer-3: Exiting
+#
+# Consumer-5: Exiting
+# Consumer-7: Exiting
+# Consumer-8: Exiting
+# Consumer-2: Exiting
+# Consumer-1: Exiting
+# Result: 0 * 0 = 0
+# Result: 1 * 1 = 1
+# Result: 3 * 3 = 9
+# Result: 5 * 5 = 25
+# Result: 2 * 2 = 4
+# Result: 4 * 4 = 16
+# Result: 6 * 6 = 36
+# Result: 7 * 7 = 49
+# Result: 8 * 8 = 64
+# Result: 9 * 9 = 81

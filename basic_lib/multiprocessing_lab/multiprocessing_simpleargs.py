@@ -20,3 +20,8 @@ if __name__ == '__main__':
         p = multiprocessing.Process(target=worker, args=(i,))
         jobs.append(p)
         p.start()
+# Worker: 0
+# Worker: 1
+# Worker: 2
+# Worker: 3
+# Worker: 4

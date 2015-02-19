@@ -1,0 +1,4 @@
+os.sep  ／ \ 路径各部分之间的分隔符
+os.extsep 文件名与文件“扩展名” 之间的分隔符
+os.pardir  上一级目录
+os.curdir  当前目录

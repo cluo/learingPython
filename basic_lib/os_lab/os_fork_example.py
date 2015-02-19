@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -34,7 +34,7 @@ import os
 
 pid = os.fork()
 
-if pid:
+if pid:  #父进程返回 子进程ID
     print 'Child process id:', pid
-else:
+else: #子进程返回0
     print 'I am the child'

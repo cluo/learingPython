@@ -39,10 +39,14 @@ try:
 finally:
     stdout.close()
 print '\tstdout:', repr(stdout_value)
-
+# popen, read:
+# 	stdout: 'to stdout\n'
+#
 print '\npopen, write:'
 stdin = os.popen('cat -', 'w')
 try:
     stdin.write('\tstdin: to stdin\n')
 finally:
     stdin.close()
+# popen, write:
+# 	stdin: to stdin

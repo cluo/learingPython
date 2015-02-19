@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -36,15 +36,28 @@ dir_name = 'os_directories_example'
 
 print 'Creating', dir_name
 os.makedirs(dir_name)
+# Creating os_directories_example
+
 
 file_name = os.path.join(dir_name, 'example.txt')
 print 'Creating', file_name
+# Creating os_directories_example/example.txt
+
 with open(file_name, 'wt') as f:
     f.write('example file')
 
 print 'Listing', dir_name
+# Listing os_directories_example
 print os.listdir(dir_name)
+# ['example.txt']
 
 print 'Cleaning up'
-os.unlink(file_name)
-os.rmdir(dir_name)
+# Cleaning up
+os.unlink(file_name) #删除文件
+os.rmdir(dir_name)  #删除目录
+
+
+
+
+
+

@@ -31,7 +31,7 @@ if __name__ == '__main__':
     p = multiprocessing.Process(target=worker, args=(queue,))
     p.start()
     
-    queue.put(MyFancyClass('Fancy Dan'))
+    queue.put(MyFancyClass('Fancy Dan')) #通过队列传递对象
     
     # Wait for the worker to finish
     queue.close()

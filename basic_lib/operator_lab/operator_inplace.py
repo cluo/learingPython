@@ -4,6 +4,7 @@
 # Copyright (c) 2008 Doug Hellmann All rights reserved.
 #
 """
+原地操作 +=
 """
 
 __version__ = "$Id$"

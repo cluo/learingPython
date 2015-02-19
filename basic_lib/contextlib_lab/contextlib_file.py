@@ -4,6 +4,7 @@
 # Copyright (c) 2010 Doug Hellmann.  All rights reserved.
 #
 """Files as context managers.
+
 """
 #end_pymotw_header
 

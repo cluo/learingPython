@@ -32,7 +32,7 @@ def sigterm_clean(signum, frame):
             print 'alive'
             print 'over'
             print signal.SIGTERM #15 等待15信号
-            os.kill(os.getpid(),15) #相当于  kill -15 pid
+            os.kill(os.getpid(),15) #相当于  kill -15 pid 正常退出
         except OSError:
             print 'error'
             pass

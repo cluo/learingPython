@@ -6,7 +6,7 @@
 import logging
 
 LOG_FILENAME = 'logging_example.out'
-logging.basicConfig(filename=LOG_FILENAME,
+logging.basicConfig(filename=LOG_FILENAME,  #root logger  写日志
                     level=logging.DEBUG,
                     )
 

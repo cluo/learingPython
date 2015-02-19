@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -40,14 +40,22 @@ def signal_usr1(signum, frame):
     print 'Received USR1 in process %s' % pid
 
 print 'Forking...'
-child_pid = os.fork()
-if child_pid:
+child_pid = os.fork() #子进程ID
+if child_pid:  #父进程
     print 'PARENT: Pausing before sending signal...'
     time.sleep(1)
     print 'PARENT: Signaling %s' % child_pid
     os.kill(child_pid, signal.SIGUSR1)
-else:
+else:#子继承
     print 'CHILD: Setting up signal handler'
-    signal.signal(signal.SIGUSR1, signal_usr1)
+    signal.signal(signal.SIGUSR1, signal_usr1) #此处不会阻塞
     print 'CHILD: Pausing to wait for signal'
     time.sleep(5)
+
+
+# Forking...
+# PARENT: Pausing before sending signal...
+# CHILD: Setting up signal handler
+# CHILD: Pausing to wait for signal
+# PARENT: Signaling 38700
+# Received USR1 in process 38700

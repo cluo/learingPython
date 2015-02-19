@@ -22,3 +22,6 @@ msg = 'through stdin to stdout'
 stdout_value, stderr_value = proc.communicate(msg)
 print '\tpass through:', repr(stdout_value)
 print '\tstderr      :', repr(stderr_value)
+# popen3:
+# 	pass through: 'through stdin to stdout'
+# 	stderr      : 'to stderr\n'

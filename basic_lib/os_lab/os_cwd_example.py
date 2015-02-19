@@ -33,8 +33,11 @@ __module_id__ = "$Id$"
 import os
 
 print 'Starting:', os.getcwd()
+#Starting: /Users/admin/gitSource/learingPython/basic_lib/os_lab
 
 print 'Moving up one:', os.pardir
-os.chdir(os.pardir)
+#Moving up one: ..
 
+os.chdir(os.pardir)
 print 'After move:', os.getcwd()
+#After move: /Users/admin/gitSource/learingPython/basic_lib

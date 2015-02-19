@@ -19,10 +19,19 @@ def myHandler(signum, frame):
 
 # register signal.SIGALRM's handler
 signal.signal(signal.SIGALRM, myHandler)
-signal.alarm(2)
+signal.alarm(2) #闹铃自己给自己发SIGALRM信号
 signal.pause()
 print('End of Signal Demo')
 
 
+
+# 14
+# 59393
+# 14
+# Now, it's the time
+# 14
+# 59393
+# 14
+# Now, it's the time
 
 

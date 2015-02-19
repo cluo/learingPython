@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -33,4 +33,5 @@ __module_id__ = "$Id$"
 import os
 
 # Simple command
-os.system('pwd')
+os.system('pwd') #执行指令
+# /Users/admin/gitSource/learingPython/basic_lib/os_lab

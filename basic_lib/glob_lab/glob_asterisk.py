@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -31,5 +31,14 @@ __module_id__ = "$Id$"
 #end_pymotw_header
 
 import glob
-for name in glob.glob('dir/*'):
+for name in glob.glob('dir/*'): #通配符
     print name
+
+
+#
+# dir/file.txt
+# dir/file1.txt
+# dir/file2.txt
+# dir/filea.txt
+# dir/fileb.txt
+# dir/subdir

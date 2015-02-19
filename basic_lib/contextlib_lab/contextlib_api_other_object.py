@@ -4,6 +4,7 @@
 # Copyright (c) 2010 Doug Hellmann.  All rights reserved.
 #
 """Implementing the context manager API by hand.
+   如果在with 语句的as子句指定名称 __enter__可以返回与这个名称相关联的任何对象
 """
 #end_pymotw_header
 
@@ -26,3 +27,10 @@ class Context(object):
     
 with Context() as c:
     c.do_something()
+
+# Context.__init__()
+# Context.__enter__()
+# WithinContext.__init__(<__main__.Context object at 0x1004fbc10>)
+# WithinContext.do_something()
+# Context.__exit__()
+# WithinContext.__del__

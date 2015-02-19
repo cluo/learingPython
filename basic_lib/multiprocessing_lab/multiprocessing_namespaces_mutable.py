@@ -16,13 +16,13 @@ def producer(ns, event):
 
 def consumer(ns, event):
     print 'Before event:', ns.my_list
-    event.wait()
+    event.wait() #阻塞等待信号
     print 'After event :', ns.my_list
 
 if __name__ == '__main__':
     mgr = multiprocessing.Manager()
     namespace = mgr.Namespace()
-    namespace.my_list = []
+    namespace.my_list = []   #恭喜那个命名空间
     
     event = multiprocessing.Event()
     p = multiprocessing.Process(target=producer,
@@ -35,3 +35,6 @@ if __name__ == '__main__':
     
     c.join()
     p.join()
+# /Users/admin/gitSource/learingPython/basic_lib/multiprocessing_lab/multiprocessing_namespaces_mutable.py
+# Before event: []
+# After event : []

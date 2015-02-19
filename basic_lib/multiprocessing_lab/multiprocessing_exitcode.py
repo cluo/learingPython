@@ -39,3 +39,8 @@ if __name__ == '__main__':
     for j in jobs:
         j.join()
         print '%15s.exitcode = %s' % (j.name, j.exitcode)
+   #   exit_error.exitcode = 1 #标识进程有一个错误
+   #      exit_ok.exitcode = 0
+   # return_value.exitcode = 0
+   #       raises.exitcode = 1
+   #   terminated.exitcode = -15

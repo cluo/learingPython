@@ -20,5 +20,4 @@ except subprocess.CalledProcessError as err:
 else:
     print 'Have %d bytes in output' % len(output)
     print output
-
-                                  
+# ERROR: Command 'echo to stdout; echo to stderr 1>&2; exit 1' returned non-zero exit status 1

@@ -35,5 +35,5 @@ if __name__ == '__main__':
     n.start()
 
     d.join(1)
-    print 'd.is_alive()', d.is_alive()
+    print 'd.is_alive()', d.is_alive() #join之后依然存活
     n.join()

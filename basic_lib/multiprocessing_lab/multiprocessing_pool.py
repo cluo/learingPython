@@ -31,3 +31,14 @@ if __name__ == '__main__':
     pool.join()  # wrap up current tasks
 
     print 'Pool    :', pool_outputs
+# Input   : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+# Built-in: [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]
+# Starting PoolWorker-1
+# Starting PoolWorker-2
+# Starting PoolWorker-3
+# Starting PoolWorker-4
+# Starting PoolWorker-5
+# Starting PoolWorker-6
+# Starting PoolWorker-7
+# Starting PoolWorker-8
+# Pool    : [0, 2, 4, 6, 8, 10, 12, 14, 16, 18]

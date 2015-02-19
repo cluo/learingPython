@@ -20,7 +20,7 @@ def wait_for_event_timeout(e, t):
     """Wait t seconds and then timeout"""
     print 'wait_for_event_timeout: starting'
     e.wait(t)
-    print 'wait_for_event_timeout: e.is_set()->', e.is_set()
+    print 'wait_for_event_timeout: e.is_set()->', e.is_set() #事件设置
 
 
 if __name__ == '__main__':
@@ -39,3 +39,9 @@ if __name__ == '__main__':
     time.sleep(3)
     e.set()
     print 'main: event is set'
+# wait_for_event: starting
+# main: waiting before calling Event.set()
+# wait_for_event_timeout: starting
+# wait_for_event_timeout: e.is_set()-> False
+# main: event is set
+# wait_for_event: e.is_set()-> True

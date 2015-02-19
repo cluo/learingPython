@@ -12,4 +12,5 @@ __version__ = "$Id$"
 import subprocess
 
 # Command with shell expansion
-subprocess.call('echo $HOME', shell=True)
+subprocess.call('echo $HOME', shell=True) #shell模式运行前先会处理变量  call会返回退出码，非0为错误
+# /Users/admin

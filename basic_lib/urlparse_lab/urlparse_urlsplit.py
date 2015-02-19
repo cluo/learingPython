@@ -17,3 +17,15 @@ print 'username:', parsed.username
 print 'password:', parsed.password
 print 'hostname:', parsed.hostname, '(netloc in lowercase)'
 print 'port    :', parsed.port
+
+
+# SplitResult(scheme='http', netloc='user:pwd@NetLoc:80', path='/p1;param/p2;param', query='query=arg', fragment='frag')
+# scheme  : http
+# netloc  : user:pwd@NetLoc:80
+# path    : /p1;param/p2;param
+# query   : query=arg
+# fragment: frag
+# username: user
+# password: pwd
+# hostname: netloc (netloc in lowercase)
+# port    : 80

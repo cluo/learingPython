@@ -32,8 +32,14 @@ __module_id__ = "$Id$"
 
 import os
 
-print 'This process id:', os.getpid()
-print 'Parent process :', os.getppid()
-print 'Process group  :', os.getpgid(os.getpid())
-print 'Parent group   :', os.getpgid(os.getppid())
+print 'This process id:', os.getpid()  #进程ID
+print 'Parent process :', os.getppid() #父进程ID
+print 'Process group  :', os.getpgid(os.getpid()) #进程组ID
+print 'Parent group   :', os.getpgid(os.getppid()) #父进程组ID
 print 'Session id     :', os.getsid(0)
+
+# This process id: 75480
+# Parent process : 23038
+# Process group  : 23038
+# Parent group   : 23038
+# Session id     : 976

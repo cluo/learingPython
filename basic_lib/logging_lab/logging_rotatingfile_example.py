@@ -44,8 +44,8 @@ my_logger.setLevel(logging.DEBUG)
 
 # Add the log message handler to the logger
 handler = logging.handlers.RotatingFileHandler(LOG_FILENAME,
-                                               maxBytes=20,
-                                               backupCount=5,
+                                               maxBytes=20, #每个日志的大小
+                                               backupCount=5, #备份数目超过5后的日志会被删除
                                                )
 my_logger.addHandler(handler)
 
@@ -54,6 +54,13 @@ for i in range(20):
     my_logger.debug('i = %d' % i)
 
 # See what files are created
-logfiles = glob.glob('%s*' % LOG_FILENAME)
+logfiles = glob.glob('%s*' % LOG_FILENAME) #模糊匹配
 for filename in logfiles:
     print filename
+
+# logging_rotatingfile_example.out
+# logging_rotatingfile_example.out.1
+# logging_rotatingfile_example.out.2
+# logging_rotatingfile_example.out.3
+# logging_rotatingfile_example.out.4
+# logging_rotatingfile_example.out.5

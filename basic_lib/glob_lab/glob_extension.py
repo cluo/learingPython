@@ -32,5 +32,11 @@ __module_id__ = "$Id$"
 
 import glob
 
-for name in glob.glob('*.py'):
+for name in glob.glob('*.py'): #通配符
     print name
+# dir/file.txt
+# dir/file1.txt
+# dir/file2.txt
+# dir/filea.txt
+# dir/fileb.txt
+# dir/subdir

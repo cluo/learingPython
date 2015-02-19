@@ -13,7 +13,7 @@ import subprocess
 
 print 'popen2:'
 
-proc = subprocess.Popen(['cat', '-'],
+proc = subprocess.Popen(['cat', '__init__.py'],
                         stdin=subprocess.PIPE,
                         stdout=subprocess.PIPE,
                         )

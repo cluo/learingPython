@@ -11,7 +11,7 @@ import multiprocessing
 import time
 
 def worker():
-    name = multiprocessing.current_process().name
+    name = multiprocessing.current_process().name  #当前进程名
     print name, 'Starting'
     time.sleep(2)
     print name, 'Exiting'
@@ -32,3 +32,11 @@ if __name__ == '__main__':
     worker_1.start()
     worker_2.start()
     service.start()
+
+
+# worker 1 Starting
+# Process-3 Starting
+# my_service Starting
+# Process-3 Exiting
+# worker 1 Exiting
+# my_service Exiting

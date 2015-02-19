@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -32,5 +32,9 @@ __module_id__ = "$Id$"
 
 import glob
 
-for name in glob.glob('dir/file?.txt'):
+for name in glob.glob('dir/file?.txt'): #匹配单个字符
     print name
+# dir/file1.txt
+# dir/file2.txt
+# dir/filea.txt
+# dir/fileb.txt

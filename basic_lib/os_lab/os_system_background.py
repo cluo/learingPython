@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#
+#-*- coding:utf8 -*-
 # Copyright 2007 Doug Hellmann.
 #
 #
@@ -34,7 +34,11 @@ import os
 import time
 
 print 'Calling...'
-os.system('date; (sleep 3; date) &')
+os.system('date; (sleep 3; date) &') #后台执行
 
 print 'Sleeping...'
 time.sleep(5)
+# Calling...
+# Tue Feb 17 21:35:41 CST 2015
+# Sleeping...
+# Tue Feb 17 21:35:44 CST 2015
