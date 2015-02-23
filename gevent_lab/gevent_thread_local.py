@@ -1,4 +1,8 @@
+#-*- coding:utf8 -*-
 __author__ = 'admin'
+# Gevent也允许你指定局部于greenlet上下文的数据。
+# 在内部，它被实现为以greenlet的getcurrent()为键，
+# 在一个私有命名空间寻址的全局查找。
 import gevent
 from gevent.local import local
 stash = local()
@@ -15,3 +19,8 @@ def f2():
 g1 = gevent.spawn(f1)
 g2 = gevent.spawn(f2)
 gevent.joinall([g1,g2])
+
+
+# 1
+# 2
+# x is not local to f2

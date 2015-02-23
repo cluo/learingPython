@@ -1,5 +1,6 @@
 __author__ = 'admin'
 from gevent.pool import Pool
+#当构造gevent驱动的服务时，经常会将围绕一个池结构的整个服务作为中心。 一个例子就是在各个socket上轮询的类。
 class SocketPool(object):
 	def __init__(self):
 		self.pool = Pool(1000)

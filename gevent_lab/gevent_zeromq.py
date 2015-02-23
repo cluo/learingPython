@@ -31,3 +31,15 @@ publisher = gevent.spawn(server)
 client    = gevent.spawn(client)
 
 gevent.joinall([publisher, client])
+
+
+
+# Switched to Server for 1
+# Switched to Server for 2
+# Switched to Server for 3
+# Switched to Server for 4
+# Switched to Server for 5
+# Switched to Server for 6
+# Switched to Server for 7
+# Switched to Server for 8
+# Switched to Server for 9

@@ -22,3 +22,20 @@ print('Unordered')
 igroup = Group()
 for i in igroup.imap_unordered(intensive,xrange(3)):
 	print(i)
+
+
+# size ofr group 3
+# hello from Greenlet 4300462512
+# size ofr group 3
+# hello from Greenlet 4300463312
+# size ofr group 3
+# hello from Greenlet 4300463472
+# Ordered
+# ('task', 0)
+# ('task', 1)
+# ('task', 2)
+# Unordered
+# ('task', 2)
+# ('task', 1)
+# ('task', 0)
+#

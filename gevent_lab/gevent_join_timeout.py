@@ -29,3 +29,8 @@ try:
     gevent.with_timeout(1, wait)
 except Timeout:
     print('Thread 3 timed out')
+
+
+# Thread 1 time out
+# Thread 2 timed out
+# Thread 3 timed out

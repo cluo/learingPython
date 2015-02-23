@@ -3,10 +3,10 @@ import gevent
 from multiprocessing import Process, Pipe
 from gevent.socket import wait_read, wait_write
 # To Process
-a, b = Pipe()
+a, b = Pipe() #a send b recv
 
 # From Process
-c, d = Pipe()
+c, d = Pipe() #c send d recv
 
 def relay():
     for i in xrange(10):
@@ -31,3 +31,15 @@ if __name__ == '__main__':
     g2 = gevent.spawn(put_msg)
     gevent.joinall([g1, g2], timeout=1)
 
+
+
+# hi in 0
+# hi in 1
+# hi in 2
+# hi in 3
+# hi in 4
+# hi in 5
+# hi in 6
+# hi in 7
+# hi in 8
+# hi in 9

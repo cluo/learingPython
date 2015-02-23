@@ -6,7 +6,7 @@ import urllib
 gevent.monkey.patch_all()
 def test():
 	with gevent.Timeout(2, False) as timeout:
-		urllib.urlopen('http://www.twitter.com')
+		urllib.urlopen('http://www.baidu.com')
 if __name__  == '__main__':
 	g = gevent.spawn(test)
 	g.join()

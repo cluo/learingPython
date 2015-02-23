@@ -27,3 +27,67 @@ gevent.joinall([
 	gevent.spawn(worker, 'cluo'),
 	gevent.spawn(worker, 'bob')
 ])
+
+
+
+# boss put 1
+# boss put 1
+# boss put 1
+# Worker steve got task 1
+# Worker cluo got task 2
+# Worker bob got task 3
+# boss put 1
+# boss put 1
+# boss put 1
+# Worker steve got task 4
+# Worker cluo got task 5
+# Worker bob got task 6
+# boss put 1
+# boss put 1
+# boss put 1
+# Assigned all work in iteration 1
+# Worker steve got task 7
+# Worker cluo got task 8
+# Worker bob got task 9
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 1
+# Worker cluo got task 2
+# Worker bob got task 3
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 4
+# Worker cluo got task 5
+# Worker bob got task 6
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 7
+# Worker cluo got task 8
+# Worker bob got task 9
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 10
+# Worker cluo got task 11
+# Worker bob got task 12
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 13
+# Worker cluo got task 14
+# Worker bob got task 15
+# boss put 2
+# boss put 2
+# boss put 2
+# Worker steve got task 16
+# Worker cluo got task 17
+# Worker bob got task 18
+# boss put 2
+# Assigned all work in iteration 2
+# Worker steve got task 19
+# Quitting time !
+# Quitting time !
+# Quitting time !
